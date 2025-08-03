@@ -95,12 +95,7 @@ classDiagram
 
 - Clone o repositório:
 ```
-git clone https://github.com/mathfis/Python-Santander_Bootcamp_2025/POO_Python/
-```
-
-- Acesse o diretório
-```
-cd SistemaBancario_POO
+git clone https://github.com/mathfis/Python-Santander_Bootcamp_2025/POO_Python/SistemaBancario_POO
 ```
 
 - Execute o sistema
